@@ -7,8 +7,8 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class EducacionService {
-    //URL = 'https://pback-production.up.railway.app/educacion/';
-    URL = 'http://localhost:8080/educacion/';
+    URL = 'https://backendmichaelhelvig.onrender.com/educacion/';
+    //URL = 'http://localhost:8080/educacion/';
   
     constructor(private httpClient : HttpClient) { }
 
