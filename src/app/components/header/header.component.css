@@ -1,0 +1,13 @@
+div {
+    background-color: #818181;
+    background-image:
+        radial-gradient(at 70% 83%, rgb(112, 111, 111) 0px, transparent 50%),
+        radial-gradient(at 67% 3%, rgb(143, 144, 145) 0px, transparent 50%),
+        radial-gradient(at 53% 40%, rgb(135, 138, 139) 0px, transparent 50%),
+        radial-gradient(at 73% 43%, rgb(61, 63, 63) 0px, transparent 50%);
+}
+
+app-social {
+    float: right;
+    margin-top: 25px;
+}

@@ -1,0 +1,29 @@
+.row {
+    padding: 20px;
+}
+
+div {
+    background-color: #818181;
+}
+
+h1, h3 {
+    display: inline;
+}
+
+h1 {
+    font-weight: 800;
+}
+
+div ul li h1{
+    font-weight: 600;
+}
+
+.fecha{
+    font-style: italic;
+    background-color: #333333; 
+    border-radius: 20px; 
+    padding: 5px 10px; 
+    display: inline-block; 
+    color: #ffffff; 
+}
+
