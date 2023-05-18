@@ -8,7 +8,7 @@ import { Skill } from '../model/skill';
   providedIn: 'root'
 })
 export class SkillService {
-  URL = 'satisfied-tracey-michaelhelvig.koyeb.app/skill/';
+  URL = 'https://satisfied-tracey-michaelhelvig.koyeb.app/skill/';
   //URL = 'http://localhost:8080/skill/';
   
   constructor(private httpClient: HttpClient) { }

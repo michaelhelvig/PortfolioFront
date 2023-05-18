@@ -9,7 +9,7 @@ import { NuevoUsuario } from '../model/nuevo-usuario';
   providedIn: 'root'
 })
 export class AuthService {
-  authURL = 'satisfied-tracey-michaelhelvig.koyeb.app/auth/';
+  authURL = 'https://satisfied-tracey-michaelhelvig.koyeb.app/auth/';
   //authURL = 'http://localhost:8080/auth/';
 
   constructor(private httpClient: HttpClient) { }
